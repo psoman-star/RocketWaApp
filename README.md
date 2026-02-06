@@ -47,7 +47,7 @@ _The Ultimate WhatsApp Marketing & Automation Solution_
 
 ## 5) Extract Group Members</h3>
 <ul>
-    <li><strong>Member Extraction:</strong> Export member data (numbers/usernames) from groups you have joined.</li>
+    <li><strong>Member Extraction:</strong> Export member phone number from groups you have joined.</li>
     <li><strong>One-Click Export:</strong> Save extracted lists to CSV for easy customer management.</li>
 </ul>
 
